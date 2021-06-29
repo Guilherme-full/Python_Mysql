@@ -22,5 +22,5 @@ else:
 
 finally:
     print('Conexão finalizada')
-    print('-' * 50)
+ 
 
