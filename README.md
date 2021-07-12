@@ -1,8 +1,8 @@
 # Python_Mysql (Guilherme Xavier Souza)
 
-## Download do Projeto
+## Clonar Repostório
 ```
-gh repo clone Guilherme-full/Python_Mysql
+git clone https://github.com/Guilherme-full/Python_Mysql.git
 ```
 
 |          | Linux | macOS | Windows |
